@@ -1,0 +1,1 @@
+Pasta dedicada a projetos voltados para Machine Learning. Mescla projetos academicos (ou feitos em sala ou atividade em casa) e projetos pessoais.
